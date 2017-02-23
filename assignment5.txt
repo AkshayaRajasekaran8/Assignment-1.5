@@ -1,0 +1,31 @@
+1.Hadoop:
+Hadoop software is a framework that allows for the distributed processing of large 
+data sets across clusters of computer using simple programming models. It is used to 
+scale up from single servers to thousands of machines which are having local storage 
+and computation.
+
+2.Components of  Hadoop framework:
+a.Hadoop Distributed File System(HDFS):
+HDFS is the secret sauce of apache hadoop components as user can dump huge datasets 
+into HDFS and the data will sit there until the user wants to leverage it for analysis.
+HDFS component creates several replicas of the data block to be distributed.
+b.Map Reduce:
+Map Reduce is a java based system created by google where the actual data from the
+HDFS store gets processed efficiently. It breaks down a big data processing job into smaller
+tasks. It is responsible for analysing large datasets in parallel before reducing it to find the 
+results.
+c.YARN:
+YARN forms an integral part of hadoop 2.0. YARN is great enabler for dynamic resource 
+utilization on hadoop framework as users can run various hadoop applications without
+having to bother about increasing workload.
+d.Pig:
+Pig provides a high level data flow language Pig which is optimized,extensible and 
+easy to use. The most outstanding feature of Pig programs is that their structure is open
+to considerable parallelization making it easy to handle large data sets.
+
+3.Reasons to learn Big Data technologies:
+a.No signs of slowing down.
+b.Increased number of hadoop jobs.
+c.End users can visualize data.
+d.It evolves data analysis methods and its capabilities.
+e.Software options galore.
